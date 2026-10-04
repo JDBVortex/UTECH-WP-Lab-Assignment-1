@@ -1,31 +1,33 @@
-##  Author
+# Author
 
 Jajuan Brown
 
-## About the Project
+# About the Project
 
-This was one of my early university web development projects and was created to demonstrate my understanding of fundamental HTML and CSS concepts.
+This was one of my early university web development projects and was created to demonstrate my understanding of fundamental HTML and CSS concepts. 
+It is a responsive student profile webpage created as part of **Lab Activity 1** for the **BSc in Computing** programme at the University of Technology, Jamaica (UTECH).
 
 I wrote the code myself and researched unfamiliar concepts while developing the project, particularly the implementation of HTML forms and tables.
 
-# University Student Profile Page
+# Link to Website
 
-A responsive student profile webpage created as part of **Lab Activity 1** for the **BSc in Computing** programme at the University of Technology, Jamaica (UTECH).
+https://jdbvortex.github.io/UTECH-WP-Lab-Assignment-1/
 
-## Project Overview
+
+# Project Overview
 
 This project is a personal university student profile page designed to introduce a student to visitors during an orientation programme. It presents information about the student, current courses, weekly class times, and a contact form.
 
 The project was built using **HTML5 and CSS3**, with a focus on practicing the fundamentals of structuring and styling a webpage.
 
-## Technologies Used
+# Technologies Used
 
 * **HTML5**
 * **CSS3**
 
 No JavaScript, Bootstrap, or other frameworks were used in this project.
 
-## Features
+# Features
 
 * University student profile and introduction
 * Navigation bar with links to different sections of the page
@@ -42,7 +44,7 @@ No JavaScript, Bootstrap, or other frameworks were used in this project.
 * Responsive layout for different screen sizes
 * External CSS stylesheet for page styling
 
-## What I Practiced
+# What I Practiced
 
 This project helped me strengthen my understanding of:
 
@@ -58,7 +60,7 @@ This project helped me strengthen my understanding of:
 * Responsive web design
 * Organizing a webpage into logical sections
 
-## Project Structure
+# Project Structure
 
 ```text
 Lab Activity 1/
