@@ -66,6 +66,3 @@ Lab Activity 1/
 ├── labactivity1.css
 └── WhatsApp Image 2025-07-07 at 2.11.16 PM (1).jpeg
 ```
-
-BSc Computing — University of Technology, Jamaica
-2026/2027 Academic Year
